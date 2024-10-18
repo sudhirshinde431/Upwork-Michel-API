@@ -1,0 +1,51 @@
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Projects\Packages\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Projects\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Projects\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Projects\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Projects\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\dt226537\Downloads\163805_DemoCleanArchitectureWithMediatR\DemoCleanArchitectureWithMediatR\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\Upwork-Michel-API\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\Upwork-Michel-API\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\Upwork-Michel-API\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\Upwork-Michel-API\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\Upwork-Michel-API\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb

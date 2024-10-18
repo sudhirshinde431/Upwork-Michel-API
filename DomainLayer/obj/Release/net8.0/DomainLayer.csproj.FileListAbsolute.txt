@@ -1,0 +1,12 @@
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Release\net8.0\DomainLayer.deps.json
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Release\net8.0\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\bin\Release\net8.0\DomainLayer.pdb
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\refint\DomainLayer.dll
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\DomainLayer.pdb
+C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\DomainLayer\obj\Release\net8.0\ref\DomainLayer.dll

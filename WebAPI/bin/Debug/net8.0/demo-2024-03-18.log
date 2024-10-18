@@ -1,0 +1,286 @@
+2024-03-18 10:31:32.2771||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2024-03-18 10:31:32.6138||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2024-03-18 10:31:32.7752||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\dt226537\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-03-18 10:31:32.8000||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\dt226537\AppData\Local\ASP.NET\DataProtection-Keys\key-701bc452-fb7f-4e07-9a3a-7ef86c96a3bb.xml'. 
+2024-03-18 10:31:32.8101||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\dt226537\AppData\Local\ASP.NET\DataProtection-Keys\key-87546344-6444-4191-85cf-024b513075b4.xml'. 
+2024-03-18 10:31:32.8101||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\dt226537\AppData\Local\ASP.NET\DataProtection-Keys\key-94381f05-80c4-45bd-be7d-0c1d287b8f8f.xml'. 
+2024-03-18 10:31:32.8101||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\dt226537\AppData\Local\ASP.NET\DataProtection-Keys\key-e7765436-f801-4efb-a54c-024c2765d75f.xml'. 
+2024-03-18 10:31:32.8373||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {701bc452-fb7f-4e07-9a3a-7ef86c96a3bb}. 
+2024-03-18 10:31:32.8682||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {87546344-6444-4191-85cf-024b513075b4}. 
+2024-03-18 10:31:32.8682||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {94381f05-80c4-45bd-be7d-0c1d287b8f8f}. 
+2024-03-18 10:31:32.8682||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {e7765436-f801-4efb-a54c-024c2765d75f}. 
+2024-03-18 10:31:32.8958||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {94381f05-80c4-45bd-be7d-0c1d287b8f8f} with expiration date 2024-05-13 07:19:46Z as default key. 
+2024-03-18 10:31:32.9019||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2024-03-18 10:31:32.9019||DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2024-03-18 10:31:32.9019||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2024-03-18 10:31:32.9177||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2024-03-18 10:31:32.9177||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2024-03-18 10:31:32.9177||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {94381f05-80c4-45bd-be7d-0c1d287b8f8f} as the default key. 
+2024-03-18 10:31:32.9177||DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {94381f05-80c4-45bd-be7d-0c1d287b8f8f} was loaded during application startup. 
+2024-03-18 10:31:33.8804||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7096 
+2024-03-18 10:31:33.8804||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+2024-03-18 10:31:33.8838||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly WebAPI 
+2024-03-18 10:31:33.8838||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-03-18 10:31:33.8838||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-03-18 10:31:33.8838||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-03-18 10:31:33.8838||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-03-18 10:31:33.8838||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\dt226537\OneDrive - SS&C Technologies, Inc\Latest_Files_25Jan2023\Project_Documents\Personal\Michel\New API\NewAPI\NewAPP\WebAPI 
+2024-03-18 10:31:33.8838||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2024-03-18 10:31:33.9493||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2Q" accepted. 
+2024-03-18 10:31:33.9493||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2Q" started. 
+2024-03-18 10:31:33.9493||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2Q" received FIN. 
+2024-03-18 10:31:34.0077||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-03-18 10:31:34.1230||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2Q" stopped. 
+2024-03-18 10:31:34.1230||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2Q" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-03-18 10:31:35.5889||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2R" accepted. 
+2024-03-18 10:31:35.5889||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2R" started. 
+2024-03-18 10:31:35.8076||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HN2711TQ9R2R established using the following protocol: Tls12 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-03-18 10:31:35.9291||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received HEADERS frame for stream ID 1 with length 479 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-03-18 10:31:35.9848||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-03-18 10:31:36.7841||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - - - 
+2024-03-18 10:31:37.6431||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2024-03-18 10:31:37.6431||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-03-18 10:31:37.7336||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html' 
+2024-03-18 10:31:37.7336||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2024-03-18 10:31:38.0282||DEBUG|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was not authenticated. 
+2024-03-18 10:31:38.3738||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2024-03-18 10:31:38.3738||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending HEADERS frame for stream ID 1 with length 66 and flags END_HEADERS. 
+2024-03-18 10:31:38.4231||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 1 with length 4096 and flags NONE. 
+2024-03-18 10:31:38.5029||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 1 with length 986 and flags NONE. 
+2024-03-18 10:31:38.5126||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 1 with length 81 and flags NONE. 
+2024-03-18 10:31:38.5846||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received HEADERS frame for stream ID 3 with length 109 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-03-18 10:31:38.5846||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - - - 
+2024-03-18 10:31:38.6125||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2024-03-18 10:31:38.6153||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 1 with length 0 and flags END_STREAM. 
+2024-03-18 10:31:38.6153||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - 200 - text/html;charset=utf-8 1868.2346ms 
+2024-03-18 10:31:38.6378||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending HEADERS frame for stream ID 3 with length 60 and flags END_HEADERS. 
+2024-03-18 10:31:38.6378||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 3 with length 13748 and flags NONE. 
+2024-03-18 10:31:38.6378||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2024-03-18 10:31:38.6378||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - 200 13748 application/javascript;+charset=utf-8 57.9694ms 
+2024-03-18 10:31:38.6754||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received HEADERS frame for stream ID 5 with length 57 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-03-18 10:31:38.6838||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - - - 
+2024-03-18 10:31:38.9689||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending HEADERS frame for stream ID 5 with length 149 and flags END_HEADERS. 
+2024-03-18 10:31:38.9689||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 9986 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9760||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2024-03-18 10:31:38.9889||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 160 and flags NONE. 
+2024-03-18 10:31:39.0057||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 321.8671ms 
+2024-03-18 10:31:39.0057||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2024-03-18 10:31:39.3000||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" received HEADERS frame for stream ID 7 with length 66 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-03-18 10:31:39.3026||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - - - 
+2024-03-18 10:31:39.3026||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-03-18 10:31:39.3026||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json' 
+2024-03-18 10:31:39.3026||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2024-03-18 10:31:39.3026||DEBUG|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was not authenticated. 
+2024-03-18 10:31:39.6171||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending HEADERS frame for stream ID 7 with length 35 and flags END_HEADERS. 
+2024-03-18 10:31:39.6171||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 7 with length 7697 and flags NONE. 
+2024-03-18 10:31:39.6171||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" sending DATA frame for stream ID 7 with length 0 and flags END_STREAM. 
+2024-03-18 10:31:39.6171||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 319.3711ms 
+2024-03-18 10:31:40.6464||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2R" received FIN. 
+2024-03-18 10:31:40.6464||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|The connection queue processing loop for 0HN2711TQ9R2R completed. 
+2024-03-18 10:31:40.6665||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2R" is closed. The last processed stream ID was 7. 
+2024-03-18 10:31:40.6665||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2R" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-03-18 10:31:40.6665||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2R" stopped. 
+2024-03-18 10:31:50.5789||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2S" accepted. 
+2024-03-18 10:31:50.5812||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2S" started. 
+2024-03-18 10:31:50.6001||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HN2711TQ9R2S established using the following protocol: Tls12 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received HEADERS frame for stream ID 1 with length 405 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-03-18 10:31:50.6001||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7096/api/OrganizationChart - - 0 
+2024-03-18 10:31:50.6001||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-03-18 10:31:50.6190||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/OrganizationChart' 
+2024-03-18 10:31:50.6190||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'WebAPI.Controllers.OrganizationChartController.Get (WebAPI)' with route pattern 'api/OrganizationChart' is valid for the request path '/api/OrganizationChart' 
+2024-03-18 10:31:50.6190||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'WebAPI.Controllers.OrganizationChartController.Get (WebAPI)' 
+2024-03-18 10:31:50.6190||TRACE|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-03-18 10:31:50.6324||DEBUG|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was not authenticated. 
+2024-03-18 10:31:50.6324||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2024-03-18 10:31:50.6324||DEBUG|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|The request has an origin header: 'https://localhost:7096'. 
+2024-03-18 10:31:50.6324||INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2024-03-18 10:31:50.6444||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'WebAPI.Controllers.OrganizationChartController.Get (WebAPI)' 
+2024-03-18 10:31:50.7105||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Get", controller = "OrganizationChart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String, System.String, System.String, Int32, Int32) on controller WebAPI.Controllers.OrganizationChartController (WebAPI). 
+2024-03-18 10:31:50.7105||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2024-03-18 10:31:50.7105||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2024-03-18 10:31:50.7105||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2024-03-18 10:31:50.7105||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2024-03-18 10:31:50.7105||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2024-03-18 10:31:50.7205||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller WebAPI.Controllers.OrganizationChartController (WebAPI) 
+2024-03-18 10:31:54.7025||INFO|WebAPI.Controllers.OrganizationChartController|SampleController: Get method called 
+2024-03-18 10:31:56.3735||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller WebAPI.Controllers.OrganizationChartController (WebAPI) 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'searchTerm' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'searchTerm' of type 'System.String' using the name '' in request data ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Could not find a value in the request with name '' for binding parameter 'searchTerm' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'searchTerm' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'searchTerm' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'searchTerm' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'searchTerm' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'sortColumn' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'sortColumn' of type 'System.String' using the name '' in request data ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Could not find a value in the request with name '' for binding parameter 'sortColumn' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'sortColumn' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'sortColumn' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'sortColumn' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'sortColumn' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'sortOrder' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'sortOrder' of type 'System.String' using the name '' in request data ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Could not find a value in the request with name '' for binding parameter 'sortOrder' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'sortOrder' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'sortOrder' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'sortOrder' of type 'System.String' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'sortOrder' of type 'System.String'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'page' of type 'System.Int32' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'page' of type 'System.Int32' using the name '' in request data ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Could not find a value in the request with name '' for binding parameter 'page' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'page' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'page' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'page' of type 'System.Int32' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'page' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'pageSize' of type 'System.Int32' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'pageSize' of type 'System.Int32' using the name '' in request data ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Could not find a value in the request with name '' for binding parameter 'pageSize' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'pageSize' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'pageSize' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'pageSize' of type 'System.Int32' ... 
+2024-03-18 10:31:56.4709||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'pageSize' of type 'System.Int32'. 
+2024-03-18 10:31:56.4709||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-03-18 10:31:56.4709||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-03-18 10:31:56.4859||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-03-18 10:31:56.4859||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-03-18 10:31:56.4859||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method WebAPI.Controllers.OrganizationChartController.Get (WebAPI) - Validation state: Valid 
+2024-03-18 10:31:56.4859||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method WebAPI.Controllers.OrganizationChartController.Get (WebAPI) with arguments (, , , 0, 0) 
+2024-03-18 10:31:57.2887||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2024-03-18 10:32:02.1185||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.2 initialized 'ApertureSilverDevContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.2' with options: None 
+2024-03-18 10:32:02.4621||DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<OrganizationalChart>()
+    .OrderBy(product => (object)product.Id)
+    .Count()' 
+2024-03-18 10:32:03.9654||DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleAsync<int>(
+    asyncEnumerable: new SingleQueryingEnumerable<int>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> 0
+            SELECT COUNT(*)
+            FROM org.OrganizationalChart AS o), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+        InfrastructureLayer.Data.ApertureSilverDevContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)' 
+2024-03-18 10:32:04.2187||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2024-03-18 10:32:04.3119||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (117ms). 
+2024-03-18 10:32:04.3226||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:05.5392||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:05.5495||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2024-03-18 10:32:05.5940||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (44ms). 
+2024-03-18 10:32:05.5989||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (51ms). 
+2024-03-18 10:32:05.6172||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [org].[OrganizationalChart] AS [o] 
+2024-03-18 10:32:05.8638||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (245ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [org].[OrganizationalChart] AS [o] 
+2024-03-18 10:32:05.9155||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:05.9310||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB' is being disposed after spending 53ms reading results. 
+2024-03-18 10:32:05.9389||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:05.9601||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB' (21ms). 
+2024-03-18 10:32:05.9734||DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<OrganizationalChart>()
+    .OrderBy(product => (object)product.Id)' 
+2024-03-18 10:32:06.1165||DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<OrganizationalChart>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: OrganizationalChart.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: OrganizationalChart.CreatedAt (DateTime) Required ValueGenerated.OnAdd, 1], [Property: OrganizationalChart.Department (string) ANSI, 2], [Property: OrganizationalChart.Email (string) ANSI, 3], [Property: OrganizationalChart.FkProcessId (int?) FK Index, 4], [Property: OrganizationalChart.FkRunId (int?) FK Index, 5], [Property: OrganizationalChart.Fullname (string) ANSI, 6], [Property: OrganizationalChart.GivenName (string) ANSI, 7], [Property: OrganizationalChart.JobTitle (string) ANSI, 8], [Property: OrganizationalChart.Manager (string) ANSI, 9], [Property: OrganizationalChart.ManagerFullName (string) ANSI, 10], [Property: OrganizationalChart.ManagerId (long?), 11], [Property: OrganizationalChart.ModifiedAt (DateTime) Required ValueGenerated.OnAdd, 12], [Property: OrganizationalChart.SamAccountName (string) ANSI, 13], [Property: OrganizationalChart.Surname (string) ANSI, 14], [Property: OrganizationalChart.Tombstone (bool?), 15], [Property: OrganizationalChart.UserPrincipalName (string) ANSI, 16] }
+        SELECT o.ID, o.CreatedAt, o.Department, o.Email, o.FK_ProcessID, o.FK_RunID, o.Fullname, o.GivenName, o.JobTitle, o.Manager, o.ManagerFullName, o.ManagerID, o.ModifiedAt, o.SamAccountName, o.Surname, o.Tombstone, o.UserPrincipalName
+        FROM org.OrganizationalChart AS o
+        ORDER BY o.ID ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, OrganizationalChart>, 
+    InfrastructureLayer.Data.ApertureSilverDevContext, 
+    False, 
+    False, 
+    True
+)' 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2024-03-18 10:32:06.1370||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[ID], [o].[CreatedAt], [o].[Department], [o].[Email], [o].[FK_ProcessID], [o].[FK_RunID], [o].[Fullname], [o].[GivenName], [o].[JobTitle], [o].[Manager], [o].[ManagerFullName], [o].[ManagerID], [o].[ModifiedAt], [o].[SamAccountName], [o].[Surname], [o].[Tombstone], [o].[UserPrincipalName]
+FROM [org].[OrganizationalChart] AS [o]
+ORDER BY [o].[ID] 
+2024-03-18 10:32:06.1516||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[ID], [o].[CreatedAt], [o].[Department], [o].[Email], [o].[FK_ProcessID], [o].[FK_RunID], [o].[Fullname], [o].[GivenName], [o].[JobTitle], [o].[Manager], [o].[ManagerFullName], [o].[ManagerID], [o].[ModifiedAt], [o].[SamAccountName], [o].[Surname], [o].[Tombstone], [o].[UserPrincipalName]
+FROM [org].[OrganizationalChart] AS [o]
+ORDER BY [o].[ID] 
+2024-03-18 10:32:06.2748||DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApertureSilverDevContext' started tracking 'OrganizationalChart' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2024-03-18 10:32:06.4651||DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApertureSilverDevContext' started tracking 'OrganizationalChart' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2024-03-18 10:32:06.4651||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:06.4651||DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB' is being disposed after spending 316ms reading results. 
+2024-03-18 10:32:06.4651||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:06.4651||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB' (0ms). 
+2024-03-18 10:32:06.4939||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method WebAPI.Controllers.OrganizationChartController.Get (WebAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 9978.471ms. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-03-18 10:32:06.4939||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-03-18 10:32:06.5095||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2024-03-18 10:32:06.5095||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2024-03-18 10:32:06.5186||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2024-03-18 10:32:06.5186||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. 
+2024-03-18 10:32:06.5186||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result. 
+2024-03-18 10:32:06.5186||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response. 
+2024-03-18 10:32:06.5186||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'ApplicationLayer.PagedList`1[[DomainLayer.Entities.OrganizationalChart, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+2024-03-18 10:32:06.7341||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2024-03-18 10:32:06.7341||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-03-18 10:32:06.7341||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending HEADERS frame for stream ID 1 with length 77 and flags END_HEADERS. 
+2024-03-18 10:32:06.7362||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending DATA frame for stream ID 1 with length 968 and flags NONE. 
+2024-03-18 10:32:06.7362||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-03-18 10:32:06.7362||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-03-18 10:32:06.7362||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" received WINDOW_UPDATE frame for stream ID 1 with length 4 and flags 0x0. 
+2024-03-18 10:32:06.7362||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action WebAPI.Controllers.OrganizationChartController.Get (WebAPI) in 16022.8543ms 
+2024-03-18 10:32:06.7517||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'WebAPI.Controllers.OrganizationChartController.Get (WebAPI)' 
+2024-03-18 10:32:06.7517||TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" sending DATA frame for stream ID 1 with length 0 and flags END_STREAM. 
+2024-03-18 10:32:06.7517||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApertureSilverDevContext' disposed. 
+2024-03-18 10:32:06.7517||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'ApertureSilverDev' on server '(localdb)\MSSQLLocalDB'. 
+2024-03-18 10:32:06.7690||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (2ms). 
+2024-03-18 10:32:06.7690||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7096/api/OrganizationChart - 200 - application/json;+charset=utf-8 16166.0965ms 
+2024-03-18 10:32:15.6884||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2S" received FIN. 
+2024-03-18 10:32:15.6891||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN2711TQ9R2S" is closed. The last processed stream ID was 1. 
+2024-03-18 10:32:15.6891||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2711TQ9R2S" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-03-18 10:32:15.6891||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|The connection queue processing loop for 0HN2711TQ9R2S completed. 
+2024-03-18 10:32:15.6891||DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2711TQ9R2S" stopped. 
