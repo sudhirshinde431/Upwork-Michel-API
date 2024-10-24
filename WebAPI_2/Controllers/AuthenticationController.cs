@@ -9,7 +9,7 @@ namespace WebAPI_2.Controllers
 
     [Route("api/Authentication")]
     [ApiController]
-   // [EnableCors("AllowAll")]
+
     public class AuthenticationController : ControllerBase
     {
 
