@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GrxFSV+Yq+YwO8HOABu7vdLFNZIYP/shmqVsKBno10fs5j95GAhk4tgBg8vU7geszFqh/E3h7BdOIsFzBeQ36A==",
+  "dgSpecHash": "6AfdYPJULXQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAssembly\\WebAssembly.csproj",
+  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAssembly\\WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -51,8 +51,8 @@
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.0\\microsoft.jsinterop.webassembly.8.0.0.nupkg.sha512",
-    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
-    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.10\\microsoft.net.sdk.webassembly.pack.8.0.10.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
@@ -87,7 +87,7 @@
     "C:\\Users\\dt226537\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
+    "C:\\Users\\dt226537\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

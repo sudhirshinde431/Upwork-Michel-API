@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "WebAssembly",
   "resources": {
-    "hash": "sha256-vY4TViBGoUJsTd/7+idwK/eGrmGlnpzUrijRr1au3OI=",
+    "hash": "sha256-yNkztpRky04D9wuRqgmX3rN9HGwO6joLhe/8FtjsbPA=",
     "jsModuleNative": {
-      "dotnet.native.8.0.1.dlzrpc2ga4.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
+      "dotnet.native.8.0.10.lm8uc2ly6c.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.1.rm2h87j5wd.js": "sha256-HZOoaGpz9ekMa/oSmeApSKp3DXNdVUq2UBqsTIIiN8A="
+      "dotnet.runtime.8.0.10.wnd7y3qygm.js": "sha256-FjrgL9dY6dc2yUoXDWowSfachSgM8O29qUMWDQOJKRI="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-dqpunZywlYy86b4O6ZjONasmG+4FH0P17FZ0OIf/lIg="
+      "dotnet.native.wasm": "sha256-4ymhDbG5daKbi9yL1L574jRRiFFQhiOrDJU5YAYALU4="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -241,14 +241,14 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "ApplicationLayer.wasm": "sha256-dR0zejiE7WnABt9nGm4edwkTRpFJG3GcinndjxZsUqA=",
-      "DomainLayer.wasm": "sha256-golBbnezQisgkrwOvVEJFHBwkh+m+EO1YWKbcfyiBKU=",
-      "WebAssembly.wasm": "sha256-k7w2Bb5pYlU4hQs6ibqa0Ayo/r4dmcpD4MfB9p7bKfg="
+      "ApplicationLayer.wasm": "sha256-4WvffpcFok4w9b9cLyr4qZ1aluubuAtRNzw/NR0/3pk=",
+      "DomainLayer.wasm": "sha256-tsvffvdQQDElU/Hf5k0GGNzcPnNim12GykYy4mp7pug=",
+      "WebAssembly.wasm": "sha256-Zj1i92PMaWiCVwbU/o3T1AkiNU4BOWwmSlUX6NBYl1o="
     },
     "pdb": {
-      "ApplicationLayer.pdb": "sha256-AEvUlyHwdSsWsvH32TKW2E0NVI4Upt88lDmeLiQ9zcc=",
-      "DomainLayer.pdb": "sha256-/tVofK99gdBFQgMGBSajlUkG7GRY4wFcdgpfInAeOyU=",
-      "WebAssembly.pdb": "sha256-sYkMhwgIayw63iB5KF37WzUg+vjP+W1RM7x0EPSyfUQ="
+      "ApplicationLayer.pdb": "sha256-MvFwMxwB8qHZNImucm85BsOy5jraLUlVAxc1IybKcBQ=",
+      "DomainLayer.pdb": "sha256-PltxetRumwRMRV/RsucneB2JjJXcUto9yurnRI87qjU=",
+      "WebAssembly.pdb": "sha256-55fm6fd/KpqYZR7KZhLZqtyw3YKFhXklrB4JVjx/Pos="
     }
   },
   "cacheBootResources": true,

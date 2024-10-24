@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj": {}
+    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
+    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj",
         "projectName": "ApplicationLayer",
-        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\dt226537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,15 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\dt226537\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -44,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -71,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\dt226537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,7 +102,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\dt226537\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,6 +114,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -142,18 +150,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj": {
+    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj",
+        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj",
         "projectName": "InfrastructureLayer",
-        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj",
+        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj",
         "packagesPath": "C:\\Users\\dt226537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\obj\\",
+        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -169,15 +177,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\dt226537\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj"
+              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj"
               }
             }
           }
@@ -186,6 +193,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -227,18 +239,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj": {
+    "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj",
+        "projectUniqueName": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj",
         "projectName": "WebAPI_2",
-        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj",
+        "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI_2\\WebAPI_2.csproj",
         "packagesPath": "C:\\Users\\dt226537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI_2\\obj\\",
+        "outputPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,18 +266,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\dt226537\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj"
+              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj"
               },
-              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj": {
-                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj"
+              "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj": {
+                "projectPath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\InfrastructureLayer\\InfrastructureLayer.csproj"
               }
             }
           }
@@ -274,6 +285,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -340,7 +356,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rDvkS+mxeRIESjihN08Ql7utKzE9WsjmsZb4uAfq5e3ZOijn95oU7Df8994Wgy5DlWhX88veCH/ibCtYOUFSKA==",
+  "dgSpecHash": "oWlZEyrZLr0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\Upwork-Michel-API\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.identity\\1.11.1\\azure.identity.1.11.1.nupkg.sha512",

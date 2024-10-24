@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmlFu75j8Et60P1CfZ/Xu7kSJNOF1qV7mKvgAO3gh5uKHHl7e3xVKy0z17kQxskM6nNaBKwkkXC8JuOx7JUwzg==",
+  "dgSpecHash": "t6KcdZE5QzU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\Project_Documents\\Personal\\Michel\\New API\\NewAPI\\NewAPP\\ApplicationLayer\\ApplicationLayer.csproj",
+  "projectFilePath": "C:\\Users\\dt226537\\OneDrive - SS&C Technologies, Inc\\Latest_Files_25Jan2023\\2024_Work\\Upwork-Michel-API\\ApplicationLayer\\ApplicationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dt226537\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

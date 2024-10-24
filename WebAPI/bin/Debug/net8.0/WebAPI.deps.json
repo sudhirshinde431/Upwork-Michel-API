@@ -2526,7 +2526,10 @@
           "MediatR": "12.2.0"
         },
         "runtime": {
-          "ApplicationLayer.dll": {}
+          "ApplicationLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DomainLayer/1.0.0": {
@@ -2535,7 +2538,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "runtime": {
-          "DomainLayer.dll": {}
+          "DomainLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "InfrastructureLayer/1.0.0": {
@@ -2546,7 +2552,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "runtime": {
-          "InfrastructureLayer.dll": {}
+          "InfrastructureLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
